@@ -10,5 +10,5 @@ Foi realizada uma entrevista com um biólogo que deseja um sustemas de cataloga�
 - tanto número de patas como número de folhas, são considerados: número de partes.
 - os seres vivios e a familia tem um nome.
 - nas fichas indentifico: se o ser vivo é um vegetal ou animal, seu nome, sua familia e quantas partes ele tem.
-
+<br>
 O objetivo é criar um modelo de classe, par que possa ser desenvolvido um projeto, de modo a seguir todos os princípios da Orientação a Objetos.
